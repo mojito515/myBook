@@ -1,3 +1,5 @@
-# simple
+# about
 
-Wiki 示例空白仓库，直接 `fork` 该仓库然后填充内容即可。
+在极客学院wiki平台上传博客文章--构建持续集成平台
+
+更多文章请跳转：http://mojito515.github.io
