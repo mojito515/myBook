@@ -1,4 +1,6 @@
-- 关于我们
-    - [关于极客学院](about-us.md)
-    - [关于极客学院 Wiki](about-wiki.md)
-- [联系我们](contact.md)
+- [前情背景](before.md)
+- [选择构建工具](choose_tool.md)
+- [JAVA篇](java.md)
+- [IOS篇](ios.md)
+- [Android篇](android.md)
+- [关于我](about-us.md)
